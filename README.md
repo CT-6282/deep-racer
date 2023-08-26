@@ -1,8 +1,28 @@
 # deep-racer
 
-Realizamos un programa de autoaprendizaje y reconocimiento para un vehículo autónomo a escala y una pista de entrenamiento.
-Un vehículo autónomo, es un vehículo sin conductor, debe ser capaz de imitar las capacidades de las personas de conducir, imitando su comportamiento dependiendo del entorno en el que se encuentre.
-      El vehículo cuenta con cámaras... (Agregar componentes)
+Vehículos Autónomos: Definición y Significado:
+
+Los vehículos autónomos son la encarnación del poder de la inteligencia artificial y el aprendizaje automático en el mundo de la movilidad. En esencia, un vehículo autónomo es capaz de moverse y navegar en su entorno sin intervención humana directa. Utiliza una combinación de sensores avanzados, procesamiento de datos en tiempo real y algoritmos de toma de decisiones para lograr esta autonomía. Desde coches autónomos en las carreteras hasta robots de entrega, la autonomía está transformando la forma en que interactuamos con el mundo.
+
+Componentes Clave del Amazon DeepRacer:
+
+Ahora, centrémonos en una joya tecnológica que nos ofrece un vistazo al futuro de la autonomía: el Amazon DeepRacer. Veamos los componentes más importantes que hacen que esta plataforma sea tan emocionante:
+
+    Plataforma de Hardware:
+        Vehículo Físico: El DeepRacer es un vehículo a escala 1/18 que incorpora una cámara y sensores LiDAR para percibir su entorno.
+        Ruedas y Motor: Sus ruedas y motor permiten un movimiento suave y control preciso, fundamental para el aprendizaje y la toma de decisiones autónomas.
+
+    Plataforma de Software:
+        Entorno de Simulación: El DeepRacer ofrece un entorno virtual para experimentar y entrenar modelos de IA antes de implementarlos en el vehículo físico.
+        Aprendizaje por Refuerzo: Esta es la esencia del aprendizaje del DeepRacer. El vehículo aprende a través de la interacción con su entorno, obteniendo recompensas por acciones positivas y mejorando a lo largo del tiempo.
+
+    Reinforcement Learning (Aprendizaje por Refuerzo):
+        Agente de Aprendizaje: El modelo de IA en el DeepRacer es el agente de aprendizaje. Aprende mediante la exploración y el refinamiento de acciones para maximizar las recompensas.
+        Política de Acción: El agente desarrolla una política de acción óptima a lo largo del tiempo, basada en las experiencias pasadas y las recompensas obtenidas.
+
+    Liga DeepRacer:
+        Comunidad y Competencia: Amazon ha establecido una liga para los entusiastas de la IA y la autonomía. Aquí, los participantes pueden competir virtual y presencialmente, compartiendo conocimientos y mejorando sus modelos.
+	
       Módulo 1 - Arquitectura y Programación de Sistemas:
 
 	•	Elegimos lenguajes de programación como Python para implementar la lógica de control y aprendizaje de los vehículos. Python nos permite aprovechar una amplia variedad de bibliotecas y marcos de trabajo relevantes para la inteligencia artificial y el procesamiento de datos en tiempo real.
